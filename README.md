@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-Currently, I work as a Python backend developer at the Avantrend Research Center in Yekaterinburg. The company develops software for the medical industry and has a collection of interesting projects related to working with medical images (CT, MRI).
+Currently, I work as a Python Software Development Engineer in Test (SDET) at the Arenadata company.
+Previously worked as a backend developer.
 
 In addition to my main job, I am a mentor in the Python direction on the Hexlet educational platform.
-
-Besides Python, I am studying Golang to expand my capabilities in high-performance server-side development.
 
 Here, I store my small study projects, useful forks, and old Hexlet projects. There are also repositories with test assignments.
 
